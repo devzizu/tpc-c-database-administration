@@ -1,7 +1,7 @@
 # Database-Administration
 
 ### Short description:
-Benchmark TPC-C Installation and Configuration and Query optimization for better overall database performance.
+Benchmark TPC-C Installation&Configuration and Query optimization for better overall database performance.
 
 ### Members / Maintainers:
 
