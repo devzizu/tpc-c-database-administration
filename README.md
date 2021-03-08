@@ -15,4 +15,4 @@ Benchmark TPC-C Installation&Configuration and Query optimization for better ove
 
 <br>
 
->**University of Minho, Software Engineering Masters (4rd year)**
+>**University of Minho, Software Engineering (4rd year)**
